@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Barcode3" size="1.000000 1.414427" />
+    <ImageTarget name="Barcode2" size="1.000000 1.414427" />
+    <ImageTarget name="Barcode1" size="1.000000 1.414427" />
+    <ImageTarget name="Third" size="1.000000 0.707000" />
+    <ImageTarget name="Second" size="1.000000 0.707000" />
+    <ImageTarget name="First" size="1.000000 0.707000" />
+  </Tracking>
+</QCARConfig>

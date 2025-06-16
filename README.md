@@ -3,11 +3,12 @@
 Weldin- is an Augmented Reality (AR) application where you can learn and practice virtual welding!  
 Scan a barcode, bring up a 3D object, and start welding in the real world—virtually! 🚀
 
-##📝 About Project
+## 📝 About Project
 
 Weldin- is designed to make welding practice accessible, fun, and safe for everyone. By using AR technology, users can experience realistic welding interactions without the risks of real equipment. Whether you’re a beginner wanting to try welding or just looking to play with AR, Weldin- is for you!
 
-✨ Features
+## ✨ How To Use
+
 🛠️ **AR Welding Practice**: Scan a barcode to spawn objects and practice welding in AR.
 🎯 **Intuitive Experience**: Easy to use—just scan, see, and weld!
 🎨 **(Planned)** Virtual painting feature for even more ways to learn and play.
